@@ -56,7 +56,7 @@ def factorial():
 
 # Ventana principal
 ventana = tk.Tk()
-ventana.title("🧮 Calculadora Científica")
+ventana.title(" Calculadora Científica")
 ventana.configure(bg="#1e1e1e")
 ventana.resizable(False, False)
 
